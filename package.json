@@ -1,0 +1,33 @@
+{
+  "name": "hardhattry",
+  "version": "1.0.0",
+  "description": "https://hardhat.org/getting-started/",
+  "main": "index.js",
+  "dependencies": {
+    "hardhat": "^2.6.5"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.7",
+    "mocha": "^9.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinqiyang/hardhattry.git"
+  },
+  "keywords": [
+    "hardhat"
+  ],
+  "author": "xinqiyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinqiyang/hardhattry/issues"
+  },
+  "homepage": "https://github.com/xinqiyang/hardhattry#readme"
+}
